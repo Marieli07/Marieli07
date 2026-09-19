@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com base em Campo Grande, Mato Grosso do Sul. Estou construindo uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento. Acredito que a tecnologia é uma ferramenta poderosa para criar soluções reais e impactantes. 🚀
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com base em Campo Grande, Mato Grosso do Sul. Estou construindo uma base sólida em sensoriamento remoto, geoprocessamento de dados, estruturas de dados e boas práticas de desenvolvimento. Acredito que a tecnologia é uma ferramenta poderosa para criar soluções reais e impactantes. 🚀
 
 - 🎓 Cursando **ADS** (3º semestre)
 - 💼 Em busca do primeiro **estágio** em Desenvolvimento de Software ou Infraestrutura/Redes
@@ -33,27 +33,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com base em Campo G
 
 </div>
 
----
+<!-----
 
- <!--## 🚀 Projetos
+ ## 🚀 Projetos
 
 
   Quando o repositório estiver publicado, adicione o link aqui, por exemplo: [Ver projeto](https://github.com/Marieli07/NOME-DO-REPOSITORIO) -->
 
 <!-- Para cada novo projeto, copie o modelo abaixo:
 - **Nome do projeto** — o que ele faz, em uma frase. Tecnologias usadas. [Ver projeto](link)
--->
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marieli07&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Marieli07" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marieli07&layout=compact&langs_count=6&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas por Marieli07" />
-
-</div>
+----->
 
 ---
 
