@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Yasmin+Marieli!+%F0%9F%91%8B;Estudante+de+ADS+%F0%9F%8E%93;Redes+%7C+Geoprocessamento+%F0%9F%9A%80" alt="Olá, eu sou Yasmin Marieli! Estudante de ADS. Desenvolvimento, Redes e Geoprocessamento." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Yasmin+Marieli!+%F0%9F%91%8B;Estudante+de+ADS+%F0%9F%8E%93;%7C+Desenvolvimento%7C+Redes+%7C+Geoprocessamento+%F0%9F%9A%80" alt="Olá, eu sou Yasmin Marieli! Estudante de ADS. Desenvolvimento, Redes e Geoprocessamento." />
 
 </div>
 
