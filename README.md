@@ -35,10 +35,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com base em Campo G
 
 ---
 
-## 🚀 Projetos
+ <!--## 🚀 Projetos
 
-- **Rastreador de progresso do Terraria** — aplicativo web feito com HTML, CSS e JavaScript puro, para acompanhar o progresso no jogo.
-  <!-- Quando o repositório estiver publicado, adicione o link aqui, por exemplo: [Ver projeto](https://github.com/Marieli07/NOME-DO-REPOSITORIO) -->
+
+  Quando o repositório estiver publicado, adicione o link aqui, por exemplo: [Ver projeto](https://github.com/Marieli07/NOME-DO-REPOSITORIO) -->
 
 <!-- Para cada novo projeto, copie o modelo abaixo:
 - **Nome do projeto** — o que ele faz, em uma frase. Tecnologias usadas. [Ver projeto](link)
