@@ -12,7 +12,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com base em Campo G
 
 - 🎓 Cursando **ADS** (3º semestre)
 - 💼 Em busca do primeiro **estágio** em Desenvolvimento de Software ou Infraestrutura/Redes
-- 🌱 Atualmente aprendendo: Python, C, banco de dados (MySQL), redes, front-end e geoprocessamento
+- 🌱 Atualmente aprendendo: Python, C, banco de dados (MySQL, Mongo DB, PostgreSQL), redes, front-end e geoprocessamento
 - 🛰️ Interesse em: geoprocessamento de dados e sensoriamento remoto
 
 ---
@@ -29,7 +29,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com base em Campo G
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco]([https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white](https://cdn.talentlms.com/althausskillshub/1601388765_cisco-networking-academy-logo.png?Expires=1789819200&Signature=Es~t~sstVDXwqLdCOXrWXPvi1en0V1sSgmgrpLzas3qwiX8pfFB8rgyIiebarJCaXq0RxJQbqpmeH2u94NN9K6oogy~y2aZ0Y4klHWYc3YU1Kdz6Cx1uqCw2cb2lRHYAcycHEo9CWqSv2WWMFfJDj9NjbVWFNuYkCkAAjh2wekkMku9-6eoicX2z5amCm2nO6hxTE7a5gWhoVmQstRMQ6xqnGqy-7FyaUuHVWPixMPyAiiz2aGgKJpawHBnz5vrWiEIr-QxEcAXaa-NbnwkjW0Lp9b5hQNnBtNamIgIzcfZrq1AztiUHje6xMrafXzVO-G75vGUoNLqk~KEGWGKWvA__&Key-Pair-Id=APKAJDCWVQTW4P3KI3XA))
 
 </div>
 
